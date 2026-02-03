@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **omotayodamilare@gmail.com**
 
-- ⚡ Fun fact **i'm a chess enthusiast (0-0)**
+- ⚡ Fun fact **i'm a chess enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
