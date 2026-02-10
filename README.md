@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ProdigyAI](http://prodigylasu.vercel.app/)
 
-- 🌱 I’m currently learning **fastapi, AI integration, nextJS**
+- 🌱 I’m currently learning **Fastapi, AI integration, nextJS**
 
 - 📫 How to reach me **omotayodamilare@gmail.com**
 
