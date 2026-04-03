@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omotayo Damilare</h1>
 <h3 align="center">A Cracked Backend Developer with 3+ years experience in the industry</h3>
+<a href="https://www.omotayodamilare.me/" align="center">My portfolio</a>
 
 - 🔭 I’m currently working on [ProdigyAI](http://prodigylasu.vercel.app/)
 
