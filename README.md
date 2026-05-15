@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omotayo Damilare</h1>
-<h3 align="center">A Cracked Backend Developer with 3+ years experience in the industry</h3>
+<h3 align="center">SWE with 3+ years experience in the industry</h3>
 <a href="https://www.omotayodamilare.me/" align="center">My portfolio</a>
 
-- 🔭 I’m currently working on [ProdigyAI](http://prodigylasu.vercel.app/)
+- 🔭 I’m currently working on PDFree
 
-- 🌱 I’m currently learning **Fastapi, AI integration, nextJS**
+- 🌱 I’m currently learning **Deep Learming and Neural Networks**
 
 - 📫 How to reach me **omotayodamilare@gmail.com**
 
